@@ -12,3 +12,10 @@ are you [shipit]
 ```
 git add, git status, git origin 
 ```
+* salam
+* wa
+* lakum
+* salam
+  1. sala
+2. salam
+3. 
